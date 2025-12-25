@@ -1,0 +1,6 @@
+While working on the Bellman–Ford algorithm, I realized that I don’t need to fully master an algorithm to start learning from it. 
+I learned how shortest path algorithms gradually improve answers through repeated updates rather than finding the solution in one step. 
+I also understood the idea of relaxation, where distances are updated only when a better path is found.
+Although I’m still developing a clear intuition for why it runs V−1 times, this task helped me see how negative edge weights and negative cycles affect shortest path problems, 
+something simpler algorithms like Dijkstra cannot handle. Overall, this exercise taught me how to read unfamiliar logic, implement it carefully, 
+and learn by experimenting rather than memorizing.
